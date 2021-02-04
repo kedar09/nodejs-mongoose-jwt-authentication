@@ -1,4 +1,4 @@
-# nodejs-mysql-jwt-authentication
+# nodejs-mongoose-jwt-authentication
 Sign-Up/Sign-In using Node.js, MongoDB and JWT(JSON Web Token).
 
 
